@@ -1,6 +1,11 @@
 ## Hi there 👋
+I'm James, a software engineering student hoping to soon graduate from Carlton University in February.
 
-test
+I currently have experience in the languages: Python, Java, C, JavaScript, SQL, PHP, HTML, Groovy, Golang, and Racket.<br>
+As well as the tools: Git, Jenkins, Jira, Oracle Databases, Power BI, and SolidWorks.
+
+I am not currently at liberty to discuss my current project but once I'm finished with it I hope to 
+
 <!--
 **shapidobob/shapidobob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
